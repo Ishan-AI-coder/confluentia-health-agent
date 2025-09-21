@@ -97,3 +97,6 @@ python main.py
 ## License
 
 MIT
+
+## AI Agents used 
+ GOOGLE Gemini model 
