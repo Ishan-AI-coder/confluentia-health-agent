@@ -39,6 +39,14 @@ This 5-slide deck covers the system overview, agent roles, workflow, use cases, 
 Watch a demo of Confluentia Health Agent in action:
 
 [Demo Video (MP4)](docs/confluentia_health_agent_demo.mp4)
+
+## Training Data
+
+The system uses sample health data for agent training and evaluation. For example, the `blood_report.csv` file contains anonymized blood test results used to train and validate WarrenAgent's biomarker analysis capabilities.
+
+**Training Data File:** [`docs/blood_report.csv`](docs/blood_report.csv)
+
+This file includes columns such as patient ID, test date, hemoglobin, WBC count, platelet count, and other key biomarkers. Agents use this data to learn patterns, detect abnormalities, and generate structured outputs.
 ## Use Cases
 
 Healthcare Report Analysis
