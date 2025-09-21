@@ -27,6 +27,14 @@ NeelAgent → Patient relationship management (engagement, satisfaction).
 
 RubyAgent → Logistics handling (appointments, scheduling, follow-ups).
 
+## Slide Deck
+
+You can view the introductory slide deck for Confluentia Health Agent here:
+
+[Confluentia Health Agent Slides (PDF)](docs/Confluentia_Health_Agent_Slides.pdf)
+
+This 5-slide deck covers the system overview, agent roles, workflow, use cases, and key features.
+
 ## Use Cases
 
 Healthcare Report Analysis
@@ -53,7 +61,18 @@ Integrated Dashboard
 The system can display abnormalities, risk percentages, and probable diseases in tables and charts (pie charts, bar graphs, trend lines).
 
 
+## Slide Deck
 
+You can find a 5-slide introductory deck for Confluentia Health Agent in the `docs/Confluentia_Health_Agent_Slides.pdf` file.
+
+**Slides Overview:**
+1. **Introduction:** Overview of the multi-agent framework and its purpose.
+2. **Agent Roles:** Description of each specialized agent and their expertise.
+3. **Workflow:** Visual representation of data flow from input to integrated report.
+4. **Use Cases:** Real-world scenarios demonstrating agent collaboration.
+5. **Features & Next Steps:** Key features, installation, and future directions.
+
+> **Location:** [`docs/Confluentia_Health_Agent_Slides.pdf`](docs/Confluentia_Health_Agent_Slides.pdf)
 
 ## Features
 
@@ -100,3 +119,4 @@ MIT
 
 ## AI Agents used 
  GOOGLE Gemini model 
+ Gamma AI
