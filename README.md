@@ -34,7 +34,11 @@ You can view the introductory slide deck for Confluentia Health Agent here:
 [Confluentia Health Agent Slides (PDF)](docs/Confluentia_Health_Agent_Slides.pdf)
 
 This 5-slide deck covers the system overview, agent roles, workflow, use cases, and key features.
+## Demo Video
 
+Watch a demo of Confluentia Health Agent in action:
+
+[Demo Video (MP4)](docs/confluentia_health_agent_demo.mp4)
 ## Use Cases
 
 Healthcare Report Analysis
