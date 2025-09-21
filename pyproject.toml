@@ -4,4 +4,49 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = []
+# Dependencies for the project
+dependencies = [
+    "numpy",
+    "pandas",
+    "python-dateutil",
+    "pytz",
+    "plotly",
+    "streamlit>=1.49.1",
+    "PyPDF2",
+    "reportlab",
+    "blinker",
+    "protobuf",
+    "typing-extensions",
+    "cachetools",
+    "click",
+    "tornado",
+    "toml",
+    "packaging",
+    "pydantic-ai-slim[google]>=0.7.2"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+# uv-managed dependencies (can override or pin versions if needed)
+dependencies = [
+    "numpy",
+    "pandas",
+    "python-dateutil",
+    "pytz",
+    "plotly",
+    "streamlit>=1.49.1",
+    "PyPDF2",
+    "reportlab",
+    "blinker",
+    "protobuf",
+    "typing-extensions",
+    "cachetools",
+    "click",
+    "tornado",
+    "toml",
+    "packaging",
+    "pydantic-ai-slim[google]>=0.7.2"
+]
