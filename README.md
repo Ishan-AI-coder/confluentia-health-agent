@@ -1,4 +1,4 @@
-# Confluentia Health Agent
+# Multi agent Health model
 This  AI system is designed as a multi-agent framework where different specialized agents collaborate to analyze health-related data and provide actionable insights. Instead of relying on a single AI, the system uses multiple agents (Rachel, Warren, Carla, Advik, Neel, and Ruby), each with a unique area of expertise, and an Orchestrator Agent that decides which expert should handle a given input.
 
 The workflow looks like this:
